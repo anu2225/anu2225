@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anuragjadhav25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragjadhav25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Anurag Jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragjadhav" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/Anurag Jadhav](https://www.linkedin.com/in/anurag-jadhav-13a73321a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragjadhav" height="30" width="40" /></a>
 <a href="https://instagram.com/anurag_01______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_01______" height="30" width="40" /></a>
 </p>
 
